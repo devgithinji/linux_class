@@ -1,1 +1,8 @@
-I attended an African Tech Summit hosted in Johannesburg, South Africa, where I had the opportunity to share my knowledge and experience in Linux. Throughout the event, I found myself relying on my favorite editor, Vim, to enhance my productivity and streamline my work. With its extensive features and powerful capabilities, Vim allowed me to efficiently navigate through files, make edits, and execute commands with ease. Its customizable nature and robust plugin ecosystem enabled me to tailor my editing environment to suit my preferences and boost my efficiency in working with Linux. Whether it was writing scripts, configuring system files, or managing code, Vim proved to be an invaluable tool, ensuring a seamless and productive experience at the African Tech Summit.
+I attended an African Tech Summit hosted in Johannesburg, South Africa, where I had the opportunity 
+to share my knowledge and experience in Linux. Throughout the event, I found myself relying on my 
+favorite editor, Vim, to enhance my productivity and streamline my work. With its extensive features 
+and powerful capabilities, Vim allowed me to efficiently navigate through files, make edits, and 
+execute commands with ease. Its customizable nature and robust plugin ecosystem enabled me to tailor
+ my editing environment to suit my preferences and boost my efficiency in working with Linux. 
+Whether it was writing scripts, configuring system files, or managing code, Vim proved to be an 
+invaluable tool, ensuring a seamless and productive experience at the African Tech Summit.
